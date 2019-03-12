@@ -1,3 +1,5 @@
+import org.jetbrains.annotations.NotNull;
+
 import java.io.*;
 
 public class ReadFromWarAndPeace {
